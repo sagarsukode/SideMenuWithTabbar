@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SideMenuWithTabbar_SideMenuWithTabbarUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SideMenuWithTabbar_SideMenuWithTabbarUITests
+@end

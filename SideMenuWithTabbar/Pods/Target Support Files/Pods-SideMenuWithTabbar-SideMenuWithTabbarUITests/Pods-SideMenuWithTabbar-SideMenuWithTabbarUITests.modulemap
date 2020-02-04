@@ -1,0 +1,6 @@
+framework module Pods_SideMenuWithTabbar_SideMenuWithTabbarUITests {
+  umbrella header "Pods-SideMenuWithTabbar-SideMenuWithTabbarUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
